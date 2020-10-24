@@ -31,7 +31,7 @@
             "Test": "test"
         }
     },
-    "description": "More info available on: http://pear.php.net/package/Spreadsheet_Excel_Writer",
+    "description": "Spreadsheet Excel Writer version used with Adianti Framework",
     "include-path": [
         "./"
     ],
@@ -39,8 +39,7 @@
     "minimum-stability": "dev",
     "name": "pablodalloglio/spreadsheet_excel_writer",
     "support": {
-        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Spreadsheet_Excel_Writer",
-        "source": "https://github.com/pear/Spreadsheet_Excel_Writer"
+        "source": "https://github.com/pablodalloglio/spreadsheet_excel_writer"
     },
     "type": "library",
     "require": {
