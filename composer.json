@@ -31,11 +31,11 @@
             "Test": "test"
         }
     },
-    "description": "Spreadsheet Excel Writer version used with Adianti Framework",
+    "description": "Derivation from SpreadsheetExcelWriter without PEAR dependency, and with Exceptions instead of PearErrors.",
     "include-path": [
         "./"
     ],
-    "license": "LGPL",
+    "license": "LGPL-2.1-or-later",
     "minimum-stability": "dev",
     "name": "pablodalloglio/spreadsheet_excel_writer",
     "support": {
